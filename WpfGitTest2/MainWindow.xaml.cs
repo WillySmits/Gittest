@@ -27,8 +27,9 @@ namespace WpfGitTest2
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            listBox.Items.add("Welkom!");
-            ListBox.Items.Add("Welcome!");
+            listBox.Items.Add("Welkom!");
+            listBox.Items.Add("Welcome!");
+            listBox.Items.Add("Bienvenue!");
         }
     }
 }
